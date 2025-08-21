@@ -8,10 +8,6 @@
 - **Docs & SOPs**: KBs, checklists, and “fix once, document forever”
 - **Light automation**: PowerShell/Bash/Python to export inventory, audit access, and save keystrokes
 
-## Selected work
-- **it-support-scripts** — small scripts for inventory exports (Intune/JAMF), quick fixes, and audits.  
-- **asset-lifecycle-tracker** — tiny demo to track devices through Issued → In Repair → Returned.  
-- **Match3-Game-in-Unity** — a fun side project (I like games as much as Discord users do!).
 
 ## Contact
 - LinkedIn: www.linkedin.com/in/arman-omidi-khalaki
