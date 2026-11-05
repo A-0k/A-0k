@@ -1,15 +1,20 @@
-# Arman Omidi — IT Support / Device Logistics
+# Arman Omidi
 
-9+ years keeping people productive across macOS & Windows. I support Google Workspace, Microsoft 365, JAMF, Intune/Entra, Okta, and the tools teams use every day (Asana, 1Password, Notion, Adobe). I like clean asset lifecycles, fast SLAs, and docs that let the next person fix it faster. Currently studying AWS.
+iOS app developer with a 10-year background in IT: identity and access management (joiner/mover/leaver), device fleets, and AWS/Azure administration. I build small, focused apps and tools, and I like clean lifecycles, good docs, and systems that the next person can pick up and fix quickly.
 
-## What I’m good at
-- **End-user support & escalations**: calm troubleshooting, clear comms, and follow-through
-- **Device fleet & access**: onboarding/offboarding, MDM compliance, inventory and logistics
-- **Docs & SOPs**: KBs, checklists, and “fix once, document forever”
-- **Light automation**: PowerShell/Bash/Python to export inventory, audit access, and save keystrokes
+## What I'm building
+- **BreathLead**: an iOS app that teaches breathing patterns (in development)
+- **WorkoutLead** and **HabitLead**: iOS apps in the same family (in development)
+- **[1o1.us](https://1o1.us)**: browser-based practice games for TSA aptitude tests
+- **[algorithmic-trading](https://github.com/A-0k/advanced-algorithmic-trading)**: educational Python backtests for moving-average strategies
 
+## Background
+- **Identity & access**: joiner/mover/leaver processes, Okta, Entra/Intune, Google Workspace, Microsoft 365
+- **Endpoints & fleet**: macOS and Windows, JAMF, MDM compliance, inventory and logistics
+- **Cloud**: AWS and Azure administration
+- **Automation**: PowerShell, Bash and Python to export inventory, audit access and save keystrokes
+- **Docs**: KBs, checklists and SOPs; "fix once, document forever"
 
 ## Contact
-- LinkedIn: www.linkedin.com/in/arman-omidi-khalaki
+- LinkedIn: [arman-omidi-khalaki](https://www.linkedin.com/in/arman-omidi-khalaki)
 - Email: armanomidikh@gmail.com
-- GitHub: https://github.com/A-0k
